@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-photo%2Fimage-450w-1694829796.jpg&imgrefurl=https%3A%2F%2Fwww.webivm.com%2Fcoding-background&tbnid=8D5P4QE-b_zQHM&vet=10CEsQMyjYAmoXChMIsMTln7nG9wIVAAAAAB0AAAAAEAQ..i&docid=BpVqxxCaHk5jhM&w=450&h=320&itg=1&q=background%20images%20for%20coders&ved=0CEsQMyjYAmoXChMIsMTln7nG9wIVAAAAAB0AAAAAEAQ)]
+
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
