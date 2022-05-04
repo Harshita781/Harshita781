@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="Coding" width="400" src= "https://dribbble.com/shots/7466903-Hello-Dribbble">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita781&label=Profile%20views&color=0e75b6&style=flat" alt="harshita781" /> </p>
 
