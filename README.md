@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **c c++ python**
+- 💬 Ask me about **c c++ python dart**
 
 - 📫 How to reach me **sharmaharshita431@gmail.com**
 
