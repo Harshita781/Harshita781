@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharmaharshita431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR](https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing](https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing)
 
 - ⚡ Fun fact ** sleepy**
 
