@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing](https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing)
 
-- ⚡ Fun fact ** sleepy**
+- ⚡ Fun fact sleepy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
