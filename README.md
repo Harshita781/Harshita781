@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+keep+learning+new+things;!Explore+the+world+as+much+as+you+can!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+keep+learning+new+things;And+Explore+the+world!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a> </p>
 
