@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
 
+<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
@@ -52,8 +53,3 @@
 </p>
 
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Harshita781">
-</a>
-<a href="https://github.com/Harshita781?tab=followers"><img src="https://img.shields.io/github/followers/Harshita781?label=Followers&style=social" alt="GitHub Badge"></a>
