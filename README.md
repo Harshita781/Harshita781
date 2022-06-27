@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+keep+learning+new+things;Explore+the+world+as+much+as+you+can)](https://git.io/typing-svg)
 <p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a> </p>
 
 ## 🙋‍♂️ About Me
