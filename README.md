@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://www.google.com/search?q=coder+girl+gif&rlz=1C1CHZN_enIN960IN960&sxsrf=ALiCzsYx3qVbxYFG-Q4PFPUyD3d4lKEIdw:1656319587610&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjCs52ln834AhXIUGwGHcVoCcUQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=qxKp-qMrimMqoM&imgdii=r7K-FNcSw2EE1M" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
 
 
