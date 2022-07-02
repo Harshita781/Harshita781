@@ -20,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="mailto:sharmaharshita431@gmail.com" target="blank"><img align="center" alt="Gmail"  src="https://img.icons8.com/color/000000/gmail-new.png" height="40" width="40" /></a> 
 <a href="https://twitter.com/harshit36008653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit36008653" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshita-sharma-9805a2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-sharma-9805a2215" height="30" width="40" /></a>
 <a href="https://instagram.com/harshita0888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita0888" height="30" width="40" /></a>
