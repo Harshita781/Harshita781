@@ -2,7 +2,7 @@
 <a href="#"><img width="50%" height="auto" src="image.gif" height="175px"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
-<h3 align="center">I'm a passionate learner from India.</h3>
+<h3 align="center">I'm a passionate learner from India</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+keep+learning+new+things;And+Explore+the+world!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
