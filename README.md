@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
   </p>
-<p align="right">
+<p align="left">
 
 ## 🙋‍♂️ About Me
 
