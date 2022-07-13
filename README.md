@@ -3,10 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+keep+learning+new+things;And+Explore+the+world!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
-<p align="right">
 <a href="#"><img width="60%" height="auto" src="image.gif" height="175px"/></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
+<p align="right">
 
 ## 🙋‍♂️ About Me
 
@@ -14,9 +15,7 @@
 
 - 📫 How to reach me **sharmaharshita431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/
-- 1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing](https://drive.google.com/drive/folders/
-- 1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing](https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing)
  </p>
  
 <h3 align="left">Connect with me:</h3>
