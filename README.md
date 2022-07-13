@@ -1,12 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
-<p align="right">
-<a href="#"><img width="70%" height="auto" src="image.gif" height="175px"/></a>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+keep+learning+new+things;And+Explore+the+world!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a> </p>
+<p align="right">
+<a href="#"><img width="70%" height="auto" src="image.gif" height="175px"/></a>
+</p>
+
+<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +16,8 @@
 - 📫 How to reach me **sharmaharshita431@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing](https://drive.google.com/drive/folders/1DyC2p2DbZuF_2WQPVg9ol-ZyJTnkwQwR?usp=sharing)
-
+ </p>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="mailto:sharmaharshita431@gmail.com" target="blank"><img align="center" alt="Gmail"  src="https://img.icons8.com/color/000000/gmail-new.png" height="40" width="40" /></a> 
