@@ -1,4 +1,4 @@
-<p align="center"
+<p align="left"
 <a href="#"><img width="70%" height="auto" src="image.gif" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
