@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true""><img alt="Contirbution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Contirbution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
