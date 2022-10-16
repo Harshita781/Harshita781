@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="40%" src="image-top.gif" height="175px"/>
+<img align="center" width="100%" height="30%" src="image-top.gif"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
 
