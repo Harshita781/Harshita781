@@ -1,17 +1,13 @@
-<p align="center"
-<a href="#"><img width="63%" height="auto" src="image.gif" height="175px"/></a></p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India.</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=*****+Programming+is+Thinking%2C+*****;******++++Not+Typing.++++******" alt="Typing SVG" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
-  </p>
+<a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
 <p align="left">
-
-## 🙋‍♂️ About Me
+<img align="right" width="63%" height="auto" src="image.gif" height="175px"/>
+<h3>## 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
