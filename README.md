@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
-<img align="right" width="50%" height="auto" src="image.gif" height="175px"/>
+<img align="right" width="50%" height="auto" src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" height="175px"/>
 <h3>## 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **Flutter**
