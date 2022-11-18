@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshita</h1>
 <h3 align="center">I'm a passionate learner from India</h3>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+is+Thinking;not+Typing......" alt="Typing SVG" /></a>
-</p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+is+Thinking;not+Typing......" alt="Typing SVG" /></a>
+</h3>
 
 <a href="https://twitter.com/harshit36008653" target="blank"><img src="https://img.shields.io/twitter/follow/harshit36008653?logo=twitter&style=for-the-badge" alt="harshit36008653" /></a>
 <img align="right" width="50%" height="auto" src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" height="175px"/>
