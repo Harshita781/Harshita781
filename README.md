@@ -29,7 +29,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshita Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Harshita781&theme=black-ice&stroke=060A0CD0"/>
     </a>
 </p>
-
+[![An image of @harshita120's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita120)](https://holopin.io/@harshita120)
 ## 📊 My Github Stats
 
   <br/>
