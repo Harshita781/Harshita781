@@ -29,8 +29,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshita Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Harshita781&theme=black-ice&stroke=060A0CD0"/>
     </a>
 </p>
-[![An image of @harshita120's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita120)](https://holopin.io/@harshita120)
-## 📊 My Github Stats
+
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=Harshita781&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harshita781&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -40,7 +39,8 @@
 <br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Contirbution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harshita781&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+[![An image of @harshita120's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita120)](https://holopin.io/@harshita120)
+## 📊 My Github Stats
 <br/>
 <br/>
 
